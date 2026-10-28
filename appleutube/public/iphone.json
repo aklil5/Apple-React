@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "iphone-se",
+      "product_name": "iPhone SE",
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "iPhone SE packs our most powerful chip into our most popular size at our most affordable price.",
+      "product_img": "/images/iphone11-colored.jpg",
+      "starting_price": "$399",
+      "price_range": "From $9.54/mo. or $229 with trade-in."
+    },
+    {
+      "product_id": 2,
+      "product_url": "iphone-11",
+      "product_name": "iPhone 11",
+      "product_brief_description": "Lots to love. Less to spend.",
+      "product_description": "You can either pay for your new iPhone in full or pay monthly with a carrier or Apple Card Monthly Installments.",
+      "product_img": "/images/iphone11-bg.jpg",
+      "starting_price": "$449",
+      "price_range": "From $18.70/mo. or $449 with trade-in."
+    },
+    {
+      "product_id": 3,
+      "product_url": "iphone-11-pro",
+      "product_name": "iPhone 11 Pro",
+      "product_brief_description": "Pro cameras. Pro display. Pro performance.",
+      "product_description": "A transformative triple-camera system that adds tons of capability without complexity.",
+      "product_img": "/images/iphone11-pro-bg.jpg",
+      "starting_price": "$679",
+      "price_range": "From $28.29/mo. or $679 with trade-in."
+    }
+  ]
+}
